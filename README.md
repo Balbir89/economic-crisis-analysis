@@ -18,3 +18,22 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 ---
 
 ## 📂 Project Structure  
+
+## 📊 Data Sources  
+- **World Bank** (GDP Growth, Unemployment Rates)  
+- **IMF Reports** (Inflation Trends, Interest Rates)  
+- **Trading Economics API** (Real-time Financial Data)  
+
+---
+
+## 📈 Key Insights  
+✔ The **2008 crisis** led to a prolonged economic downturn, while the **COVID-19 crisis** had a sharper but shorter impact.  
+✔ **Government stimulus** played a crucial role in recovery.  
+✔ **Inflation & Unemployment** patterns varied significantly between crises.  
+
+---
+
+## 🛠 How to Run  
+1️⃣ Clone the repository:  
+```bash
+git clone https://github.com/Balbir89/economic-crisis-analysis.git
