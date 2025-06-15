@@ -98,12 +98,14 @@ python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
 
+
 4. **Install required packages:**
-```bash
+  ```bash
 pip install -r requirements.txt
 
+
 5. **Run the analysis notebooks:**
-```bash
+  ```bash
 
 Open notebooks/data_cleaning.ipynb and run all cells.
 
