@@ -106,10 +106,8 @@ pip install -r requirements.txt
 
 
 5. **Run the analysis notebooks:**
-
   ```bash
 Open notebooks/data_cleaning.ipynb and run all cells.
-
 Then open notebooks/crisis_comparison_analysis.ipynb.
 
 
