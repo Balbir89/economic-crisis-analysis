@@ -87,19 +87,19 @@ This project uses publicly available and reliable economic datasets:
 
 ## 🚀 How to Run
 
-1 **Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/Balbir89/your-repo-name.git
    cd economic-crisis-analysis
 
-2 (Optional) Create and activate a virtual environment:
+2. (Optional) Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
-3 Install required packages:
+3. Install required packages:
 pip install -r requirements.txt
 
-4 Run the analysis notebooks:
+4. Run the analysis notebooks:
 
 Open notebooks/data_cleaning.ipynb and run all cells.
 
