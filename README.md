@@ -93,8 +93,10 @@ This project uses publicly available and reliable economic datasets:
    cd economic-crisis-analysis
 
 2. **(Optional) Create and activate a virtual environment:**
+  ```bash  
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
+
 
 4. Install required packages:
 pip install -r requirements.txt
