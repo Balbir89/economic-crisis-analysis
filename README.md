@@ -92,7 +92,7 @@ This project uses publicly available and reliable economic datasets:
    git clone https://github.com/Balbir89/your-repo-name.git
    cd economic-crisis-analysis
 
-2. (Optional) Create and activate a virtual environment:
+2. **(Optional) Create and activate a virtual environment:**
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
