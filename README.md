@@ -18,7 +18,17 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 ---
 
 ## 📂 Project Structure  
-- 
+├── data/
+│ ├── bls_unemployment.csv
+│ ├── fred_inflation.csv
+│ └── stimulus_summary.xlsx
+├── notebooks/
+│ ├── data_cleaning.ipynb
+│ └── crisis_comparison_analysis.ipynb
+├── charts/
+│ └── Crisis_Comparison_Charts.jpg
+├── README.md
+└── data_sources.md
 
 
 ## 📊 Data Sources
