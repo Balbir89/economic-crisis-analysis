@@ -83,7 +83,7 @@ This project uses publicly available and reliable economic datasets:
 **Clone the repository:**
    ```bash
    git clone https://github.com/Balbir89/your-repo-name.git
-   cd cd economic-crisis-analysis
+   cd economic-crisis-analysis
 
 
 ## 📄 License
