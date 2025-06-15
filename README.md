@@ -16,6 +16,7 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 - Fiscal stimulus during COVID-19 led to quicker GDP rebound compared to the 2008 crisis.  
 - Media commentary aligned well with quantitative data trends, reinforcing the analysis context.
 
+---
 
 ## ⚙️ Technologies & Tools Used
 
@@ -33,6 +34,7 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 
 - Markdown (Documentation)
 
+---
 
 ## 📂 Project Structure  
 ├── data/
@@ -47,6 +49,7 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 ├── README.md
 └── data_sources.md
 
+---
 
 ## 📊 Data Sources
 
@@ -72,11 +75,15 @@ This project uses publicly available and reliable economic datasets:
 
 > 📌 Data accessed and downloaded in June 2025.
 
+---
+
 ## 📈 Visualizations
 
 ### Crisis Comparison (2008 vs. COVID-19)
 
 ![Crisis Comparison Chart](charts/Crisis_Comparison_Charts.jpg)
+
+---
 
 ## 🚀 How to Run
 
@@ -84,6 +91,8 @@ This project uses publicly available and reliable economic datasets:
    ```bash
    git clone https://github.com/Balbir89/your-repo-name.git
    cd economic-crisis-analysis
+
+---
 
 
 ## 📄 License
@@ -95,6 +104,8 @@ This project is open-source and available under the MIT License.
 ## 🙋‍♀️ Contributing
 
 Feel free to fork the repo, open issues, or submit pull requests if you'd like to expand the analysis (e.g., global comparison, more datasets).
+
+---
 
 ## 📬 Contact
 
