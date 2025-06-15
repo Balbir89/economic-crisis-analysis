@@ -20,43 +20,58 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 ## 📂 Project Structure  
 - 
 
+
 ## 📊 Data Sources
 
-This project uses publicly available data from reputable sources:
+This project uses publicly available and reliable economic datasets:
 
 - **U.S. Bureau of Labor Statistics (BLS)**  
-  Unemployment and inflation data.  
-  [https://www.bls.gov/](https://www.bls.gov/)
+  [https://www.bls.gov/](https://www.bls.gov/)  
+  > Monthly unemployment rates (2007–2024)
 
 - **Federal Reserve Economic Data (FRED)**  
-  Macroeconomic indicators such as GDP and CPI.  
-  [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
-
-- **International Monetary Fund (IMF)**  
-  Global economic recovery trends post-2008 and post-COVID.  
-  [https://www.imf.org/en/Data](https://www.imf.org/en/Data)
-
-- **Brookings Institution & Pew Research**  
-  Policy analysis and economic impact assessments.  
-  [https://www.brookings.edu/](https://www.brookings.edu/)
+  [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)  
+  > CPI, GDP, inflation trends, macroeconomic indicators
 
 - **U.S. Congressional Budget Office (CBO)**  
-  Stimulus packages and fiscal response data.  
-  [https://www.cbo.gov/](https://www.cbo.gov/)
+  [https://www.cbo.gov/](https://www.cbo.gov/)  
+  > Stimulus and fiscal policy analysis
 
-- **The Economist & Bloomberg (for qualitative context)**  
-  News coverage and expert commentary on both crises.
+- **Brookings Institution & IMF**  
+  > Policy reports and analysis of global recovery
+
+- **Media Commentary** (Bloomberg, WSJ, The Economist)  
+  > Used for qualitative context only, not raw data
+
+> 📌 Data accessed and downloaded in June 2025.
+
+## 📈 Visualizations
+
+![Crisis Comparison Chart](charts/Crisis_Comparison_Charts.jpg)
+
+Includes:
+- Line charts for inflation & unemployment
+- Pie charts for recovery drivers
+
+## ⚙️ Tools Used
+
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebooks
+- Git & GitHub
+- Markdown for documentation
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
 
 ---
 
-## 📈 Key Insights  
-✔ The **2008 crisis** led to a prolonged economic downturn, while the **COVID-19 crisis** had a sharper but shorter impact.  
-✔ **Government stimulus** played a crucial role in recovery.  
-✔ **Inflation & Unemployment** patterns varied significantly between crises.  
+## 🙋‍♀️ Contributing
 
----
+Feel free to fork the repo, open issues, or submit pull requests if you'd like to expand the analysis (e.g., global comparison, more datasets).
 
-## 🛠 How to Run  
-1️⃣ Clone the repository:  
-```bash
-git clone https://github.com/Balbir89/economic-crisis-analysis.git
+## 📬 Contact
+
+For questions or collaboration:
+**[Balbir Singh]**  
+[balbirbhatia.20@gmail.com] | [LinkedIn](https://www.linkedin.com/in/balbir-finance-investment-berlin/)
