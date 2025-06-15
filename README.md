@@ -20,10 +20,32 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 ## 📂 Project Structure  
 - 
 
-## 📊 Data Sources  
-- **World Bank** (GDP Growth, Unemployment Rates)  
-- **IMF Reports** (Inflation Trends, Interest Rates)  
-- **Trading Economics API** (Real-time Financial Data)  
+## 📊 Data Sources
+
+This project uses publicly available data from reputable sources:
+
+- **U.S. Bureau of Labor Statistics (BLS)**  
+  Unemployment and inflation data.  
+  [https://www.bls.gov/](https://www.bls.gov/)
+
+- **Federal Reserve Economic Data (FRED)**  
+  Macroeconomic indicators such as GDP and CPI.  
+  [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
+
+- **International Monetary Fund (IMF)**  
+  Global economic recovery trends post-2008 and post-COVID.  
+  [https://www.imf.org/en/Data](https://www.imf.org/en/Data)
+
+- **Brookings Institution & Pew Research**  
+  Policy analysis and economic impact assessments.  
+  [https://www.brookings.edu/](https://www.brookings.edu/)
+
+- **U.S. Congressional Budget Office (CBO)**  
+  Stimulus packages and fiscal response data.  
+  [https://www.cbo.gov/](https://www.cbo.gov/)
+
+- **The Economist & Bloomberg (for qualitative context)**  
+  News coverage and expert commentary on both crises.
 
 ---
 
