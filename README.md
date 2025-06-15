@@ -78,7 +78,12 @@ This project uses publicly available and reliable economic datasets:
 
 ![Crisis Comparison Chart](charts/Crisis_Comparison_Charts.jpg)
 
+## 🚀 How to Run
 
+**Clone the repository:**
+   ```bash
+   git clone https://github.com/Balbir89/your-repo-name.git
+   cd cd economic-crisis-analysis
 
 
 ## 📄 License
