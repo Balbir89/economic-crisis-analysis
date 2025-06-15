@@ -93,20 +93,17 @@ This project uses publicly available and reliable economic datasets:
    cd economic-crisis-analysis
 
 2. **(Optional) Create and activate a virtual environment:**
-   
-  ```bash  
+   ```bash  
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
-
-
-4. **Install required packages:**
+3. **Install required packages:**
+   ```bash
 pip install -r requirements.txt
 
 
-
-5. **Run the analysis notebooks:**
-  ```bash
+4. **Run the analysis notebooks:**
+   ```bash
 Open notebooks/data_cleaning.ipynb and run all cells.
 Then open notebooks/crisis_comparison_analysis.ipynb.
 
