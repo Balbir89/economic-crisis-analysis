@@ -101,9 +101,8 @@ source venv/bin/activate        # On Windows: venv\Scripts\activate
 
 
 4. **Install required packages:**
-
-  ```bash
 pip install -r requirements.txt
+
 
 
 5. **Run the analysis notebooks:**
