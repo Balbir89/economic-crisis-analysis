@@ -8,6 +8,14 @@ This project investigates the impact of two major economic crises:
 By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking Performance**), we evaluate how financial policies influenced economic recovery.  
 
 ---
+## 🔍 Key Findings
+
+- The COVID-19 pandemic caused a sharper but shorter spike in unemployment compared to the 2008 crisis.  
+- Inflation remained relatively stable after 2008 but showed significant volatility during the COVID-19 period.  
+- Banking sector recovery was faster post-COVID-19 due to swift policy interventions.  
+- Fiscal stimulus during COVID-19 led to quicker GDP rebound compared to the 2008 crisis.  
+- Media commentary aligned well with quantitative data trends, reinforcing the analysis context.
+
 
 ## ⚙️ Technologies & Tools Used
 
