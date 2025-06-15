@@ -57,11 +57,10 @@ This project uses publicly available and reliable economic datasets:
 
 ## 📈 Visualizations
 
+### Crisis Comparison (2008 vs. COVID-19)
+
 ![Crisis Comparison Chart](charts/Crisis_Comparison_Charts.jpg)
 
-Includes:
-- Line charts for inflation & unemployment
-- Pie charts for recovery drivers
 
 ## ⚙️ Tools Used
 
