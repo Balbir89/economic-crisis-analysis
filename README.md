@@ -93,6 +93,9 @@ Feel free to fork the repo, open issues, or submit pull requests if you'd like t
 
 ## 📬 Contact
 
-For questions or collaboration:
-**[Balbir Singh]**  
-[balbirbhatia.20@gmail.com] | [LinkedIn](https://www.linkedin.com/in/balbir-finance-investment-berlin/)
+**Balbir Singh**  
+📧 Email: [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
+📞 Phone: [+49 176 83380871](tel:+4917683380871)  
+🔗 LinkedIn: [linkedin.com/in/balbir-finance-investment-berlin](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
+💻 GitHub: [github.com/Balbir89](https://github.com/Balbir89)
+
