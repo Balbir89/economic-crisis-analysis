@@ -64,10 +64,19 @@ This project uses publicly available and reliable economic datasets:
 
 ## ⚙️ Tools Used
 
-- Python (pandas, matplotlib, seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+- SQL (Data extraction and querying)
+
+- Power BI / Tableau (Data visualization)
+
+- Excel (Data cleaning and trend analysis)
+
 - Jupyter Notebooks
+
 - Git & GitHub
-- Markdown for documentation
+
+- Markdown (Documentation)
 
 ## 📄 License
 
