@@ -9,13 +9,22 @@ By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking P
 
 ---
 
-## 🔧 Technologies Used  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **SQL** (Data Extraction & Querying)  
-- **Power BI / Tableau** (Data Visualization)  
-- **Excel** (Data Cleaning & Trend Analysis)  
+## ⚙️ Technologies & Tools Used
 
----
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+- SQL (Data extraction and querying)
+
+- Power BI / Tableau (Data visualization)
+
+- Excel (Data cleaning and trend analysis)
+
+- Jupyter Notebooks
+
+- Git & GitHub
+
+- Markdown (Documentation)
+
 
 ## 📂 Project Structure  
 ├── data/
@@ -62,21 +71,7 @@ This project uses publicly available and reliable economic datasets:
 ![Crisis Comparison Chart](charts/Crisis_Comparison_Charts.jpg)
 
 
-## ⚙️ Tools Used
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-- SQL (Data extraction and querying)
-
-- Power BI / Tableau (Data visualization)
-
-- Excel (Data cleaning and trend analysis)
-
-- Jupyter Notebooks
-
-- Git & GitHub
-
-- Markdown (Documentation)
 
 ## 📄 License
 
