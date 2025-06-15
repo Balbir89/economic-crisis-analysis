@@ -96,10 +96,10 @@ This project uses publicly available and reliable economic datasets:
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
-3. Install required packages:
+4. Install required packages:
 pip install -r requirements.txt
 
-4. Run the analysis notebooks:
+5. Run the analysis notebooks:
 
 Open notebooks/data_cleaning.ipynb and run all cells.
 
