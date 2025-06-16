@@ -82,7 +82,6 @@ This project uses publicly available and reliable economic datasets:
 ### Crisis Comparison (2008 vs. COVID-19)
 ![Crisis_Comparison_Charts](https://github.com/user-attachments/assets/560de8a9-2759-4e24-a318-b9e04707799c)
 
-![Crisis Comparison Chart](charts/Crisis_Comparison_Charts.jpg)
 
 ---
 
