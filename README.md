@@ -5,7 +5,7 @@ This project investigates the impact of two major economic crises:
 1️⃣ **The 2008 Global Financial Crisis**  
 2️⃣ **The COVID-19 Pandemic (2019-2022)**   
 
-By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking Performance**), we evaluate how financial policies influenced economic recovery.  
+By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking Performance**), I evaluate how financial policies influenced economic recovery.  
 
 ---
 ## 🔍 Key Findings
