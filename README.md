@@ -1,86 +1,85 @@
-# 📊 Economic Crisis Analysis (2008 vs. COVID-19)  
+# 📊 Economic Crisis Analysis (2008 – now)
 
 ## 📌 Project Overview  
-This project investigates the impact of two major economic crises:  
-1️⃣ **The 2008 Global Financial Crisis**  
-2️⃣ **The COVID-19 Pandemic (2019-2022)**   
-
-By analyzing key financial indicators (**GDP, Inflation, Unemployment, Banking Performance**), I evaluate how financial policies influenced economic recovery.  
+This project investigates the impact of the **2008 Global Financial Crisis** on key economic indicators: GDP, Unemployment, Inflation, and Banking Performance. By analyzing how economic policy influenced recovery, I compare market behavior then and now.
 
 ---
+
 ## 🔍 Key Findings
 
-- The COVID-19 pandemic caused a sharper but shorter spike in unemployment compared to the 2008 crisis.  
-- Inflation remained relatively stable after 2008 but showed significant volatility during the COVID-19 period.  
-- Banking sector recovery was faster post-COVID-19 due to swift policy interventions.  
-- Fiscal stimulus during COVID-19 led to quicker GDP rebound compared to the 2008 crisis.  
-- Media commentary aligned well with quantitative data trends, reinforcing the analysis context.
+- Unemployment spiked sharply in 2008–09 and gradually declined during the recovery.
+- GDP dropped significantly during the crisis but slowly rebounded with policy support.
+- Banking reforms after 2008 improved financial stability in later years.
+- Media commentary confirms trends visible in the quantitative data.
 
 ---
 
 ## ⚙️ Technologies & Tools Used
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-- SQL (Data extraction and querying)
-
-- Power BI / Tableau (Data visualization)
-
-- Excel (Data cleaning and trend analysis)
-
-- Jupyter Notebooks
-
-- Git & GitHub
-
-- Markdown (Documentation)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (Data extraction and querying)  
+- Excel (Data cleaning and trend analysis)  
+- Jupyter / Colab Notebooks  
+- Git & GitHub  
 
 ---
 
 ## 📂 Project Structure  
 ├── data/
-│ ├── bls_unemployment.csv
-│ ├── fred_inflation.csv
-│ └── stimulus_summary.xlsx
+│   ├── bls_unemployment.csv
+│   └── GDP.csv
 ├── notebooks/
-│ ├── data_cleaning.ipynb
-│ └── crisis_comparison_analysis.ipynb
+│   ├── data_cleaning.ipynb
+│   └── crisis_comparison_analysis.ipynb
 ├── charts/
-│ └── Crisis_Comparison_Charts.jpg
-├── README.md
-└── data_sources.md
+│   └── Crisis_Comparison_Charts.jpg
+└── README.md
 
 ---
 
 ## 📊 Data Sources
 
-This project uses publicly available and reliable economic datasets:
-
-- **U.S. Bureau of Labor Statistics (BLS)**  
-  [https://www.bls.gov/](https://www.bls.gov/)  
-  > Monthly unemployment rates (2007–2024)
-
-- **Federal Reserve Economic Data (FRED)**  
-  [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)  
-  > CPI, GDP, inflation trends, macroeconomic indicators
-
-- **U.S. Congressional Budget Office (CBO)**  
-  [https://www.cbo.gov/](https://www.cbo.gov/)  
-  > Stimulus and fiscal policy analysis
-
-- **Brookings Institution & IMF**  
-  > Policy reports and analysis of global recovery
-
-- **Media Commentary** (Bloomberg, WSJ, The Economist)  
-  > Used for qualitative context only, not raw data
-
-> 📌 Data accessed and downloaded in June 2025.
+- **BLS** – Monthly unemployment data (2007–2024)  
+- **FRED (Federal Reserve)** – Quarterly GDP data (1947–Present)
 
 ---
 
-## 📈 Visualizations
+## 🚀 Run This Project in Google Colab
 
-### Crisis Comparison (2008 vs. COVID-19)
-![Crisis_Comparison_Charts](https://github.com/user-attachments/assets/560de8a9-2759-4e24-a318-b9e04707799c)
+Open and run the main notebook here (no setup required):
+
+▶️ [Open in Colab](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)
+
+---
+
+## 🧾 Conclusion
+
+- 📈 The 2008 crisis caused a sharp rise in unemployment and a steep drop in GDP.  
+- 🏦 Banking system reforms made later recoveries more resilient.  
+- 📊 Media narratives aligned with economic data trends, validating the analysis.
+
+---
+
+---
+
+**Visualizations**
+
+📌 Unemployment Rate Trends (2007–2024)
+Line chart showing monthly unemployment rates from BLS data.
+
+Highlights the spike during the 2008 financial crisis and gradual recovery.
+
+📌 GDP Growth Over Time (2007–2024)
+Line plot of quarterly GDP values.
+
+Shows the sharp drop during the recession and slow rebound.
+
+📌 GDP vs. Unemployment Correlation
+Scatter plot illustrating the inverse relationship between GDP and unemployment.
+
+Clear trend: as GDP drops, unemployment rises.
+
+All graphs generated using Python (Matplotlib & Seaborn) and rendered in Google Colab.
 
 
 ---
@@ -123,11 +122,10 @@ Feel free to fork the repo, open issues, or submit pull requests if you'd like t
 
 ---
 
-## 📬 Contact
+**Contact**
 
-**Balbir Singh**  
-📧 Email: [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
-📞 Phone: [+49 176 83380871](tel:+4917683380871)  
-🔗 LinkedIn: [linkedin.com/in/balbir-finance-investment-berlin](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
-💻 GitHub: [github.com/Balbir89](https://github.com/Balbir89)
-
+Balbir Singh
+📧 Email: balbirbhatia.20@gmail.com
+📞 Phone: +49 176 83380871
+🔗 LinkedIn: linkedin.com/in/balbir-finance-investment-berlin
+💻 GitHub: github.com/Balbir89
