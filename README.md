@@ -1,11 +1,11 @@
-# 📊 Economic Crisis Analysis (2008 – now)
+# Economic Crisis Analysis (2008 – now)
 
 ## 📌 Project Overview  
 This project investigates the impact of the **2008 Global Financial Crisis** on key economic indicators: GDP, Unemployment, Inflation, and Banking Performance. By analyzing how economic policy influenced recovery, I compare market behavior then and now.
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - Unemployment spiked sharply in 2008–09 and gradually declined during the recovery.
 - GDP dropped significantly during the crisis but slowly rebounded with policy support.
@@ -14,7 +14,7 @@ This project investigates the impact of the **2008 Global Financial Crisis** on 
 
 ---
 
-## ⚙️ Technologies & Tools Used
+## Technologies & Tools Used
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL (Data extraction and querying)  
@@ -24,7 +24,7 @@ This project investigates the impact of the **2008 Global Financial Crisis** on 
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 ├── data/
 │   ├── bls_unemployment.csv
 │   └── GDP.csv
@@ -37,14 +37,14 @@ This project investigates the impact of the **2008 Global Financial Crisis** on 
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - **BLS** – Monthly unemployment data (2007–2024)  
 - **FRED (Federal Reserve)** – Quarterly GDP data (1947–Present)
 
 ---
 
-## 🚀 Run This Project in Google Colab
+## Run This Project in Google Colab
 
 Open and run the main notebook here (no setup required):
 
@@ -52,11 +52,11 @@ Open and run the main notebook here (no setup required):
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
-- 📈 The 2008 crisis caused a sharp rise in unemployment and a steep drop in GDP.  
-- 🏦 Banking system reforms made later recoveries more resilient.  
-- 📊 Media narratives aligned with economic data trends, validating the analysis.
+- The 2008 crisis caused a sharp rise in unemployment and a steep drop in GDP.  
+- Banking system reforms made later recoveries more resilient.  
+- Media narratives aligned with economic data trends, validating the analysis.
 
 ---
 
@@ -84,7 +84,7 @@ All graphs generated using Python (Matplotlib & Seaborn) and rendered in Google 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository:**
    ```bash
