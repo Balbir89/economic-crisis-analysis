@@ -1,6 +1,6 @@
 # Economic Crisis Analysis (2008 – now)
 
-## 📌 Project Overview  
+## Project Overview  
 This project investigates the impact of the **2008 Global Financial Crisis** on key economic indicators: GDP, Unemployment, Inflation, and Banking Performance. By analyzing how economic policy influenced recovery, I compare market behavior then and now.
 
 ---
@@ -64,17 +64,17 @@ Open and run the main notebook here (no setup required):
 
 **Visualizations**
 
-📌 Unemployment Rate Trends (2007–2024)
+Unemployment Rate Trends (2007–2024)
 Line chart showing monthly unemployment rates from BLS data.
 
 Highlights the spike during the 2008 financial crisis and gradual recovery.
 
-📌 GDP Growth Over Time (2007–2024)
+GDP Growth Over Time (2007–2024)
 Line plot of quarterly GDP values.
 
 Shows the sharp drop during the recession and slow rebound.
 
-📌 GDP vs. Unemployment Correlation
+GDP vs. Unemployment Correlation
 Scatter plot illustrating the inverse relationship between GDP and unemployment.
 
 Clear trend: as GDP drops, unemployment rises.
