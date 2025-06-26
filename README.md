@@ -60,8 +60,6 @@ Open and run the main notebook here (no setup required):
 
 ---
 
----
-
 **Visualizations**
 
 Unemployment Rate Trends (2007–2024)
