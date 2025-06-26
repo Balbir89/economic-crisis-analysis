@@ -86,10 +86,9 @@ All graphs generated using Python (Matplotlib & Seaborn) and rendered in Google 
 
 ##  How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Balbir89/your-repo-name.git
-   cd economic-crisis-analysis
+git clone https://github.com/Balbir89/economic-crisis-analysis.git
+cd economic-crisis-analysis
+
 
 2. **(Optional) Create and activate a virtual environment:**
    ```bash  
