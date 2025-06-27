@@ -54,8 +54,10 @@ economic-crisis-analysis/
 ---
 
 ## Data Sources  
-- **BLS**: Monthly Unemployment Data (2007–2024)  
-- **FRED (Federal Reserve)**: Quarterly GDP Data (1947–Present)  
+```bash
+- BLS: Monthly Unemployment Data (2007–2024)  
+- FRED (Federal Reserve): Quarterly GDP Data (1947–Present)
+```
 
 ---
 
@@ -64,31 +66,34 @@ economic-crisis-analysis/
 ```bash
 git clone https://github.com/Balbir89/economic-crisis-analysis.git
 cd economic-crisis-analysis
+```
 
 ---
+
 (Optional) Create and activate a virtual environment:
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```
 
 ---
+
 Install required dependencies:
+```bash
 pip install -r requirements.txt
+```
+
 
 
 ---
 
 Run the Jupyter notebooks:
 
-notebooks/data_cleaning.ipynb
-
-notebooks/crisis_comparison_analysis.ipynb
+- notebooks/data_cleaning.ipynb
+- notebooks/crisis_comparison_analysis.ipynb
 
 Or run directly in Google Colab:
 ▶️ Open in Colab
-
----
-
-✅ You can paste this directly into your `README.md` — it will render cleanly with code sections properly enclosed. Let me know if you'd like to include badges or add a GIF/screenshot!
 
 ---
 
