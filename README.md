@@ -120,5 +120,3 @@ Welcome! Fork the repo, open issues, or submit pull requests to expand analyses 
 
 
 
-
-— This will highlight code blocks nicely and make links clickable. Other than that, your content is clear, concise, and recruiter-friendly!
