@@ -89,7 +89,7 @@ Run the Jupyter notebooks:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/data_cleaning.ipynb)
 
 - [crisis_comparison_analysis.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/economic_crisis_analysis.ipynb)
 
 
 
@@ -120,5 +120,7 @@ This project is MIT Licensed.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir--Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbir-finance-investment-berlin)  
 [![GitHub](https://img.shields.io/badge/GitHub-Balbir89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balbir89)  
 📞 **Phone**: +49 176 83380871
+
+
 
 
