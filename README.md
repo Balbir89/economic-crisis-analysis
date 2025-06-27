@@ -1,128 +1,120 @@
-# Economic Crisis Analysis (2008 – now)
+# Economic Crisis Analysis (2008 – Present)
 
-## Project Overview  
-This project investigates the impact of the **2008 Global Financial Crisis** on key economic indicators: GDP, Unemployment, Inflation, and Banking Performance. By analyzing how economic policy influenced recovery, I compare market behavior then and now.
-
----
-
-## Key Findings
-
-- Unemployment spiked sharply in 2008–09 and gradually declined during the recovery.
-- GDP dropped significantly during the crisis but slowly rebounded with policy support.
-- Banking reforms after 2008 improved financial stability in later years.
-- Media commentary confirms trends visible in the quantitative data.
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/Balbir89/economic-crisis-analysis)
+![GitHub Stars](https://img.shields.io/github/stars/Balbir89/economic-crisis-analysis?style=social)
+![Followers](https://img.shields.io/github/followers/Balbir89?style=social)
 
 ---
 
-## Technologies & Tools Used
+## Overview  
+This project examines the impact of the **2008 Global Financial Crisis** on key economic indicators: GDP, Unemployment, Inflation, and Banking performance. It assesses policy responses and compares economic trends from then to now.
 
+---
+
+## My Role  
+- Collected, cleaned, and integrated datasets from BLS and FRED  
+- Conducted exploratory data analysis (EDA) using Python (Pandas, Matplotlib, Seaborn)  
+- Utilized SQL and Excel for data querying and validation  
+- Developed clear visualizations to communicate insights effectively  
+- Documented methodology and made the analysis reproducible with Jupyter Notebooks  
+
+---
+
+## Key Insights  
+- Sharp rise in unemployment during 2008–09, followed by gradual recovery  
+- Significant GDP decline with slow rebound driven by policy measures  
+- Post-crisis banking reforms increased financial stability  
+- Media narratives aligned with quantitative trends  
+
+---
+
+## Tools & Technologies  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (Data extraction and querying)  
-- Excel (Data cleaning and trend analysis)  
-- Jupyter / Colab Notebooks  
-- Git & GitHub  
+- SQL for data extraction and manipulation  
+- Excel for cleaning and preliminary analysis  
+- Jupyter & Google Colab for interactive notebooks  
+- Git & GitHub for version control  
 
 ---
 
 ## Project Structure  
+economic-crisis-analysis/
 ├── data/
-│   ├── bls_unemployment.csv
-│   └── GDP.csv
+│ ├── bls_unemployment.csv
+│ └── GDP.csv
 ├── notebooks/
-│   ├── data_cleaning.ipynb
-│   └── crisis_comparison_analysis.ipynb
+│ ├── data_cleaning.ipynb
+│ └── crisis_comparison_analysis.ipynb
 ├── charts/
-│   └── Crisis_Comparison_Charts.jpg
+│ └── Crisis_Comparison_Charts.jpg
 └── README.md
 
----
-
-## Data Sources
-
-- **BLS** – Monthly unemployment data (2007–2024)  
-- **FRED (Federal Reserve)** – Quarterly GDP data (1947–Present)
 
 ---
 
-## Run This Project in Google Colab
-
-Open and run the main notebook here (no setup required):
-
-▶️ [Open in Colab](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)
+## Data Sources  
+- **BLS**: Monthly Unemployment Data (2007–2024)  
+- **FRED (Federal Reserve)**: Quarterly GDP Data (1947–Present)  
 
 ---
 
-## Conclusion
+## How to Run
 
-- The 2008 crisis caused a sharp rise in unemployment and a steep drop in GDP.  
-- Banking system reforms made later recoveries more resilient.  
-- Media narratives aligned with economic data trends, validating the analysis.
-
----
-
-**Visualizations**
-
-Unemployment Rate Trends (2007–2024)
-Line chart showing monthly unemployment rates from BLS data.
-
-Highlights the spike during the 2008 financial crisis and gradual recovery.
-
-GDP Growth Over Time (2007–2024)
-Line plot of quarterly GDP values.
-
-Shows the sharp drop during the recession and slow rebound.
-
-GDP vs. Unemployment Correlation
-Scatter plot illustrating the inverse relationship between GDP and unemployment.
-
-Clear trend: as GDP drops, unemployment rises.
-
-All graphs generated using Python (Matplotlib & Seaborn) and rendered in Google Colab.
-
-
----
-
-##  How to Run
-
+```bash
 git clone https://github.com/Balbir89/economic-crisis-analysis.git
 cd economic-crisis-analysis
 
+---
 
-2. **(Optional) Create and activate a virtual environment:**
-   ```bash  
+
+(Optional) Create and activate a virtual environment:
+
 python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+source venv/bin/activate  # Windows: venv\Scripts\activate
 
-3. **Install required packages:**
-   ```bash
+---
+
+
+Install dependencies:
+
 pip install -r requirements.txt
 
-
-4. **Run the analysis notebooks:**
-   ```bash
-Open notebooks/data_cleaning.ipynb and run all cells.
-Then open notebooks/crisis_comparison_analysis.ipynb.
-
-
 ---
 
 
-## 📄 License
+Run the notebooks:
 
-This project is open-source and available under the MIT License.
+notebooks/data_cleaning.ipynb
+
+notebooks/crisis_comparison_analysis.ipynb
+
+Or run directly on Google Colab:
+▶️ Open in Colab
 
 ---
 
-## 🙋‍♀️ Contributing
-
-Feel free to fork the repo, open issues, or submit pull requests if you'd like to expand the analysis (e.g., global comparison, more datasets).
+Conclusion
+The 2008 financial crisis caused major economic disruption, but banking reforms and policy interventions supported recovery and improved system resilience. Quantitative data aligns well with media reports.
 
 ---
 
-**Contact**
+License
+This project is MIT Licensed.
 
+---
+
+Contributions
+Welcome! Fork the repo, open issues, or submit pull requests to expand analyses or datasets.
+
+---
+
+Contact
 Balbir Singh
-📧 Email: balbirbhatia.20@gmail.com
-📞 Phone: +49 176 83380871
-🔗 LinkedIn: linkedin.com/in/balbir-finance-investment-berlin
-💻 GitHub: github.com/Balbir89
+📧 balbirbhatia.20@gmail.com
+📞 +49 176 83380871
+🔗 LinkedIn
+💻 GitHub
+
+
