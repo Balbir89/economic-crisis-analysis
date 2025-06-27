@@ -83,11 +83,13 @@ pip install -r requirements.txt
 
 Run the Jupyter notebooks:
 
-- notebooks/data_cleaning.ipynb
-- notebooks/crisis_comparison_analysis.ipynb
+- [data_cleaning.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/data_cleaning.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/data_cleaning.ipynb)
 
-Or run directly in Google Colab:
-▶️ Open in Colab
+- [crisis_comparison_analysis.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)
+
+
 
 ---
 
