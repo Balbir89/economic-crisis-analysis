@@ -51,7 +51,6 @@ economic-crisis-analysis/
 │ └── Crisis_Comparison_Charts.jpg
 └── README.md
 
-
 ---
 
 ## Data Sources  
@@ -67,56 +66,55 @@ git clone https://github.com/Balbir89/economic-crisis-analysis.git
 cd economic-crisis-analysis
 
 ---
-
-
-## (Optional) Create and activate a virtual environment:
-
+(Optional) Create and activate a virtual environment:
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 ---
-
-
-## Install dependencies:
-
+Install required dependencies:
 pip install -r requirements.txt
 
+
 ---
 
-
-## Run the notebooks:
+Run the Jupyter notebooks:
 
 notebooks/data_cleaning.ipynb
 
 notebooks/crisis_comparison_analysis.ipynb
 
-Or run directly on Google Colab:
+Or run directly in Google Colab:
 ▶️ Open in Colab
 
 ---
 
-## Conclusion
-The 2008 financial crisis caused major economic disruption, but banking reforms and policy interventions supported recovery and improved system resilience. Quantitative data aligns well with media reports.
+✅ You can paste this directly into your `README.md` — it will render cleanly with code sections properly enclosed. Let me know if you'd like to include badges or add a GIF/screenshot!
 
 ---
 
-## License
+**Conclusion**
+
+- The 2008 financial crisis caused major economic disruption, but banking reforms and policy interventions supported recovery and improved system resilience. Quantitative data aligns well with media reports.
+
+---
+
+**License**
+
 This project is MIT Licensed.
 
 ---
 
-## Contributions
-Welcome! Fork the repo, open issues, or submit pull requests to expand analyses or datasets.
+**Contributions**
+
+- Welcome! Fork the repo, open issues, or submit pull requests to expand analyses or datasets.
 
 ---
 
-## Contact
+## 📬 Contact
 
-**Balbir Singh**  
-📧 [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
-📞 +49 176 83380871  
-🔗 [LinkedIn](https://www.linkedin.com/in/balbir-finance-investment-berlin)  
-💻 [GitHub](https://github.com/Balbir89)
-
+[![Email](https://img.shields.io/badge/Email-balbirbhatia.20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balbirbhatia.20@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir--Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbir-finance-investment-berlin)  
+[![GitHub](https://img.shields.io/badge/GitHub-Balbir89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balbir89)  
+📞 **Phone**: +49 176 83380871
 
 
