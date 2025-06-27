@@ -68,24 +68,18 @@ git clone https://github.com/Balbir89/economic-crisis-analysis.git
 cd economic-crisis-analysis
 ```
 
----
-
 (Optional) Create and activate a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```
 
----
 
 Install required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-
-
----
 
 Run the Jupyter notebooks:
 
@@ -97,19 +91,19 @@ Or run directly in Google Colab:
 
 ---
 
-**Conclusion**
+## Conclusion
 
 - The 2008 financial crisis caused major economic disruption, but banking reforms and policy interventions supported recovery and improved system resilience. Quantitative data aligns well with media reports.
 
 ---
 
-**License**
+## License
 
 This project is MIT Licensed.
 
 ---
 
-**Contributions**
+## Contributions
 
 - Welcome! Fork the repo, open issues, or submit pull requests to expand analyses or datasets.
 
