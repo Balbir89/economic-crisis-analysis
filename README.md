@@ -86,8 +86,8 @@ Run the Jupyter notebooks:
 - [data_cleaning.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/data_cleaning.ipynb)  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/data_cleaning.ipynb)
 
-- [crisis_comparison_analysis.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb)
+- [crisis_comparison_analysis.ipynb]([https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/economic_crisis_analysis.ipynb))  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/notebooks/crisis_comparison_analysis.ipynb](https://colab.research.google.com/github/Balbir89/economic-crisis-analysis/blob/main/economic_crisis_analysis.ipynb))
 
 
 
