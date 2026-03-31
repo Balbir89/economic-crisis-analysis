@@ -70,7 +70,7 @@ To analyze long-term macroeconomic data and build forecasting models that identi
 
 ## 📊 Visualizations  
 
-The chart below shows the trend of GDP and unemployment rate over time, highlighting patterns during economic downturn periods:
+The chart below shows the trend and forecast of unemployment rate over time, highlighting patterns relevant to economic conditions:
 ![Trend](chart1.png)
 
 ---
