@@ -57,7 +57,7 @@ To analyze long-term macroeconomic data and build forecasting models that identi
 - Detected correlations between macroeconomic indicators  
 - Generated forecasts for key economic variables  
 - Highlighted potential early warning signals of economic instability  
-
+ 
 ---
 
 ##  Business Impact  
