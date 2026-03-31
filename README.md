@@ -77,7 +77,12 @@ To analyze long-term macroeconomic data and build forecasting models that identi
 ##  How to Run  
 
 1. Clone the repository  
-2. Install dependencies  
+2. Install dependencies
+ pip install -r requirements.txt
+3. Run notebooks in order:
+- data_collection.ipynb  
+- data_cleaning.ipynb  
+- analysis.ipynb   
 
 
 
