@@ -73,6 +73,9 @@ To analyze long-term macroeconomic data and build forecasting models that identi
 The chart below shows the trend and forecast of unemployment rate over time, highlighting patterns relevant to economic conditions:
 ![Trend](chart1.png)
 
+
+![Trend](chart2.png)
+
 ---
 
 ##  How to Run  
