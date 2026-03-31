@@ -68,9 +68,12 @@ To analyze long-term macroeconomic data and build forecasting models that identi
 
 ---
 
-##  Visualizations  
+## 📊 Visualizations  
 
-(Add your charts here)
+The following charts highlight trends in macroeconomic indicators and their relationships over time:
+
+![GDP Trend](images/chart1.png)  
+![Unemployment vs Inflation](images/chart2.png)
 
 ---
 
