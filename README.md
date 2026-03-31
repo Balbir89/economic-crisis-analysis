@@ -70,10 +70,9 @@ To analyze long-term macroeconomic data and build forecasting models that identi
 
 ## 📊 Visualizations  
 
-The following charts highlight trends in macroeconomic indicators and their relationships over time:
+The chart below shows the trend of GDP and unemployment rate over time, highlighting patterns during economic downturn periods:
 
-![GDP Trend](images/chart1.png)  
-![Unemployment vs Inflation](images/chart2.png)
+![Economic Trends](images/chart1.png)
 
 ---
 
