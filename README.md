@@ -2,7 +2,7 @@
 
 A Python portfolio project exploring US unemployment, GDP and time-series forecasting using public economic data.
 
-The project demonstrates data retrieval, preparation, visualization and an illustrative ARIMA forecast. It remains an exploratory analysis; forecast accuracy has not yet been evaluated on held-out data.
+The project covers data retrieval, preparation, visualization and an illustrative ARIMA forecast. Forecast accuracy has not yet been evaluated on held-out data.
 
 [View Main Notebook](economic_crisis_analysis.ipynb) · [Unemployment Data](bls_unemployment.csv) · [GDP Data](GDP.csv)
 
@@ -20,7 +20,7 @@ Explore unemployment trends, generate a twelve-month unemployment forecast and e
 | Matplotlib and Seaborn | Charts and exploratory visualization |
 | pmdarima | Automatic ARIMA model selection |
 | Statsmodels | Time-series decomposition |
-| Jupyter Notebook | Code, outputs and analysis documentation |
+| Jupyter Notebook | Code, outputs and documentation |
 
 ## Data Sources and Coverage
 
@@ -36,11 +36,11 @@ The notebook requests the seasonally adjusted US unemployment-rate series `LNS14
 
 The repository includes `GDP.csv`. The notebook uses its `observation_date` and `GDP` columns.
 
-Existing project documentation identifies FRED as the source. The exact series metadata, units and export date still need to be confirmed against the original download.
+Earlier project documentation identifies FRED as the source. The exact series metadata, units and export date still need to be confirmed against the original download.
 
 ### Crisis-Comparison Coverage
 
-The current unemployment API request begins in 2010 and therefore does not cover the 2008 financial crisis.
+The unemployment API request begins in 2010 and therefore does not cover the 2008 financial crisis.
 
 A supported comparison between 2008 and COVID-19 requires an extended dataset and explicit comparison analysis.
 
@@ -58,7 +58,7 @@ A supported comparison between 2008 and COVID-19 requires an extended dataset an
 
 ## Selected Visualizations
 
-The following images are saved project outputs. Their labels and coverage should be checked against the underlying data when interpreting them.
+These images are saved project outputs. Their labels and coverage should be checked against the underlying data when interpreting them.
 
 ![Saved analysis chart 1](chart1.png)
 
@@ -99,9 +99,15 @@ Keep these files in the repository root:
 
 Run the notebook with the repository root as its working directory so relative file paths resolve correctly.
 
-### 4. Configure the BLS API Key
+### 4. Open the Notebook
 
-Replace the notebook’s hard-coded API-key assignment with:
+```bash
+jupyter notebook economic_crisis_analysis.ipynb
+```
+
+### 5. Provide Your BLS API Key
+
+The corrected notebook reads the `BLS_API_KEY` environment variable. If it is not set, the notebook asks you to enter your key through a hidden input prompt:
 
 ```python
 import os
@@ -113,17 +119,19 @@ if not api_key:
     api_key = getpass("Enter your BLS API key: ")
 ```
 
-Use `api_key` as the value of `registrationkey` in the existing BLS request payload.
+Run this cell and enter your own BLS API key when prompted.
 
-Do not save a real API key in the notebook or commit it to GitHub. Any previously exposed key should be revoked or replaced.
+Keep `"BLS_API_KEY"` unchanged: it is the environment-variable name, not a placeholder for your actual key.
 
-### 5. Open the Notebook
+The BLS request uses the variable as follows:
 
-```bash
-jupyter notebook economic_crisis_analysis.ipynb
+```python
+"registrationkey": api_key
 ```
 
-### 6. Address the Known Execution Issues
+Do not paste your actual key into the README or save it in notebook code. Replace any previously exposed key before using it.
+
+### 6. Address the Remaining Execution Issues
 
 Before running all cells:
 
@@ -132,7 +140,7 @@ Before running all cells:
 - Confirm that the local CSV columns match those referenced by the notebook.
 - Review how monthly unemployment and quarterly GDP observations are aligned before interpreting their relationship.
 
-A clean top-to-bottom execution has not yet been verified.
+The API-key edit has passed a Python syntax check. A clean top-to-bottom execution of the full notebook has not yet been verified.
 
 ## Repository Contents
 
@@ -140,7 +148,7 @@ A clean top-to-bottom execution has not yet been verified.
 |---|---|
 | `economic_crisis_analysis.ipynb` | Main exploratory analysis notebook |
 | `analysis.ipynb` | Overlapping version of the analysis |
-| `data_cleaning.ipynb` | Notebook currently containing no implemented code cells |
+| `data_cleaning.ipynb` | Notebook containing no implemented code cells in the reviewed version |
 | `GDP.csv` | Local GDP dataset |
 | `bls_unemployment.csv` | Local unemployment dataset |
 | `chart1.png` | Saved analysis chart |
@@ -158,7 +166,7 @@ A clean top-to-bottom execution has not yet been verified.
 - **Seasonality:** Decomposition of a seasonally adjusted unemployment series does not establish meaningful underlying seasonality.
 - **Historical revisions:** Revised economic data may differ from the information available at an earlier forecasting date.
 - **Crisis coverage:** The unemployment request does not include 2008.
-- **Reproducibility:** Execution order, credential handling and dependency versions need further work.
+- **Reproducibility:** Execution order, API error handling and dependency versions need further work.
 
 ## Skills Demonstrated
 
@@ -174,7 +182,8 @@ A clean top-to-bottom execution has not yet been verified.
 
 - Consolidate the overlapping notebooks.
 - Correct cell execution order and verify a complete run.
-- Remove hard-coded credentials and improve API error handling.
+- Apply secure credential handling across all notebooks.
+- Improve API-response validation and error handling.
 - Document source series, units, download dates and actual coverage.
 - Align monthly and quarterly data explicitly.
 - Add chronological backtesting and a simple forecast baseline.
